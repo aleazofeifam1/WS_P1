@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="jdbc:hsqldb:file:C:/Users/ale/PycharmProjects/P1Vesions\..\..\..\..\Alejandro\U\8 Cuatri + DHL\Lenguaje de consulta de bases de datos\Final2.2 .sql/" uuid="f6d3fb7c-c127-4f8e-83da-5780e48d67fd">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
